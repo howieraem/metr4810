@@ -1,0 +1,25 @@
+*.pyc
+4810Viewer*
+*.elf
+*.dat
+*.hex
+*.map
+*.srec
+*.d
+*.o
+*.mk
+*.png
+*.jpg
+*.jpeg
+*.mp4
+slprj/
+.vs/
+*.autosave
+*.asv
+*.bak
+*.orig
+imaging and telemetry/test_vid.mp4
+imaging and telemetry/config.py
+groundControl/telescopeLink.py
+
+!images/astro.png
